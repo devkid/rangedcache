@@ -1,0 +1,7 @@
+__author__ = "Alfred Krohmer"
+__copyright__ = "Copyright 2015"
+__license__ = "GPLv2"
+__version__ = "0.1"
+__maintainer__ = "Alfred Krohmer"
+__email__ = "devkid@devkid.net"
+__status__ = "Development"
